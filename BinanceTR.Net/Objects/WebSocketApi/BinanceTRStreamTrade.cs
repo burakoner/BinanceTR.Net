@@ -2,6 +2,7 @@
 using Newtonsoft.Json;
 using CryptoExchange.Net.Converters;
 using BinanceTR.Net.Interfaces;
+using BinanceTR.Net.Objects.Base;
 
 namespace BinanceTR.Net.Objects.WebSocketApi
 {

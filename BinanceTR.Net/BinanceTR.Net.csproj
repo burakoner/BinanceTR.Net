@@ -6,9 +6,9 @@
 	<PropertyGroup>
 		<PackageId>BinanceTR.Net</PackageId>
 		<Authors>Burak Öner</Authors>
-		<PackageVersion>1.1.0</PackageVersion>
-		<AssemblyVersion>1.1.0</AssemblyVersion>
-		<FileVersion>1.1.0</FileVersion>
+		<PackageVersion>1.2.0</PackageVersion>
+		<AssemblyVersion>1.2.0</AssemblyVersion>
+		<FileVersion>1.2.0</FileVersion>
 		<Description>BinanceTR.Net is a .Net wrapper for the BinanceTR API. It includes all features the API provides, REST API and Websocket, using clear and readable objects including but not limited to reading market info, placing and managing orders and reading balances and funds</Description>
 		<PackageRequireLicenseAcceptance>true</PackageRequireLicenseAcceptance>
 		<PackageTags>Binance BinanceTR BinanceTR.Net C# .Net CryptoCurrency Exchange API wrapper</PackageTags>
@@ -16,7 +16,7 @@
 		<PackageLicenseExpression>MIT</PackageLicenseExpression>
 		<NeutralLanguage>en</NeutralLanguage>
 		<GeneratePackageOnBuild>true</GeneratePackageOnBuild>
-		<PackageReleaseNotes>1.1.0 - First stable version</PackageReleaseNotes>
+		<PackageReleaseNotes>1.2.0 - </PackageReleaseNotes>
 	</PropertyGroup>
 	<PropertyGroup>
 		<DocumentationFile></DocumentationFile>

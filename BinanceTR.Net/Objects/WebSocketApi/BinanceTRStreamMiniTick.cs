@@ -1,4 +1,5 @@
 ﻿using BinanceTR.Net.Interfaces;
+using BinanceTR.Net.Objects.Base;
 using Newtonsoft.Json;
 
 namespace BinanceTR.Net.Objects.WebSocketApi

@@ -64,13 +64,9 @@ namespace BinanceTR.Examples
 
             while (true)
             {
-                    Console.WriteLine($"S:{ob.Symbol} BP:{ob.BestBid.Price} BQ:{ob.BestBid.Quantity} AP:{ob.BestAsk.Price} AQ:{ob.BestAsk.Quantity}");
+                Console.WriteLine($"S:{ob.Symbol} BP:{ob.BestBid.Price} BQ:{ob.BestBid.Quantity} AP:{ob.BestAsk.Price} AQ:{ob.BestAsk.Quantity}");
                 Thread.Sleep(1000);
             }
-
-
-
-
 
             Console.WriteLine("Done");
             Console.ReadLine();

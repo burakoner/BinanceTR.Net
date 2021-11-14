@@ -2,7 +2,7 @@
 using System;
 using CryptoExchange.Net.Converters;
 
-namespace BinanceTR.Net.Objects
+namespace BinanceTR.Net.Objects.Base
 {
     /// <summary>
     /// A event received by a Binance websocket
@@ -14,6 +14,7 @@ namespace BinanceTR.Net.Objects
         /// </summary>
         [JsonProperty("e")]
         public string Event { get; set; } = string.Empty;
+
         /// <summary>
         /// The time the event happened
         /// </summary>

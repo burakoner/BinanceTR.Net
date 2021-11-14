@@ -2,6 +2,7 @@
 using System;
 using CryptoExchange.Net.Converters;
 using BinanceTR.Net.Interfaces;
+using BinanceTR.Net.Objects.Base;
 
 namespace BinanceTR.Net.Objects.WebSocketApi
 {
